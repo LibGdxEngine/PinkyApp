@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pinky</string>
+    //ADMIN
+    <string name="isAdmin">no</string>
+    //MAIN ACTIVITY
+    <string name="title_home">Home</string>
+    <string name="title_mobile_walls">Mobile</string>
+    <string name="title_search">Search</string>
+    //SEARCH ACTIVITY
+    <string name="searchHint">Unicorns</string>
+    //FULL SCREEN ACTIVITY
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="downloading">Downloading...</string>
+    <string name="sucess">Success</string>
+    <string name="canceled">Canceled</string>
+    <string name="processingImage">Processing Image</string>
+    <string name="shareImage">Share image</string>
+    <string name="downloadBtn">Download</string>
+    <string name="setBackgroundBtn">Set Background</string>
+    //INTRO ACTIVITY
+    <string name="INTRO_1">Find your Cute Images Here</string>
+    <string name="INTRO_2">Inspirational App for Cuteness-Lovers</string>
+    <string name="INTRO_3">Pinky For Everyone</string>
+    <string name="intro_nextBtn">Next</string>
+    <string name="intro_skipBtn">Skip</string>
+    //EXIT DIALOG
+    <string name="RateUsPlease">Please Rate Us</string>
+    <string name="exitBtn">Exit</string>
+    <string name="ShareAppBtn">Share App</string>
+    <string name="OKBtn">OK</string>
+    //ADS
+    <string name="AdsAppID">ca-app-pub-5488866535080032~7970452539</string>
+    <string name="AdsAppBanner">ca-app-pub-5488866535080032/2870169093</string>
+    <string name="AdsAppBanner2">ca-app-pub-5488866535080032/4319816284</string>
+    <string name="AdsAppBanner3">ca-app-pub-5488866535080032/1693652943</string>
+    <string name="AdsAppIntestitial">ca-app-pub-5488866535080032/5604143649</string>
+    <string name="AdsAppNative">ca-app-pub-5488866535080032/7404294568</string>
+    //TEST ADS
+
+    <string name="TestAdsAppBanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="TestAdsAppIntestitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="TestAdsAppNative">ca-app-pub-3940256099942544/2247696110</string>
+</resources>

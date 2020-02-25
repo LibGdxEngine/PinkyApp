@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33313B</color>
+    <color name="colorPrimaryDark">#414141</color>
+    <color name="colorAccent">#9d0b0b</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="introBtnColor">#F7931E</color>
+    <color name="introTextColor">#272121</color>
+
+    //placeholders
+    <color name="pl0">#beebe9	</color>
+    <color name="pl1">#12cad6	</color>
+    <color name="pl2">#fff3af	</color>
+    <color name="pl3">#e6b2c6</color>
+    <color name="pl4">#9399ff	</color>
+    <color name="pl5">#ff8080	</color>
+    <color name="pl6">#f67280	</color>
+    <color name="pl7">#e4a3d4	</color>
+    <color name="pl8">#fbdff0	</color>
+    <color name="pl9">#ff8ba7	</color>
+    <color name="pl10">	#ffe75e</color>
+    <color name="pl11">#ff8ba7	</color>
+    <color name="pl12">#f857b5	</color>
+    <color name="pl13">	#6effbf</color>
+    <color name="pl14">#1b335f	</color>
+    <color name="pl15">#20716a	</color>
+    <color name="pl16">#73dbc4	</color>
+    <color name="pl17">#742dd2	</color>
+    <color name="pl18">	#ff3434</color>
+    <color name="pl19">#113a5d	</color>
+    <color name="pl20">	#4d4545</color>
+
+
+</resources>

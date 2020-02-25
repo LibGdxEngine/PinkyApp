@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317995318569",
+    "firebase_url": "https://animeapp-8b15f.firebaseio.com",
+    "project_id": "animeapp-8b15f",
+    "storage_bucket": "animeapp-8b15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317995318569:android:90312fc28a4c2bd9774b38",
+        "android_client_info": {
+          "package_name": "com.devahmed.demo.animeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317995318569-4hljnmun2k0ms3h6bre51p3f4prbq4m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9hBU_5KZffAxgx6Rg9fIS8mjjWfOGa88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317995318569-4hljnmun2k0ms3h6bre51p3f4prbq4m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
